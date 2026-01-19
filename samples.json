@@ -1,0 +1,44 @@
+{
+  "bs_kick": [
+    "./kick/bs_kick_01.wav",
+    "./kick/bs_kick_02.wav",
+    "./kick/bs_kick_03.wav",
+    "./kick/bs_kick_04.wav",
+    "./kick/bs_kick_05.wav",
+    "./kick/bs_kick_06.wav",
+    "./kick/bs_kick_07.wav"
+  ],
+  "bs_snare": [
+    "./snare/bs_snare_01.wav",
+    "./snare/bs_snare_02.wav",
+    "./snare/bs_snare_03.wav",
+    "./snare/bs_snare_04.wav",
+    "./snare/bs_snare_05.wav",
+    "./snare/bs_snare_06.wav",
+    "./snare/bs_snare_07.wav"
+  ],
+  "bs_hat": [
+    "./hihat/bs_hat_01.wav",
+    "./hihat/bs_hat_02.wav",
+    "./hihat/bs_hat_03.wav",
+    "./hihat/bs_hat_04.wav",
+    "./hihat/bs_hat_05.wav",
+    "./hihat/bs_hat_06.wav",
+    "./hihat/bs_hat_07.wav"
+  ],
+  "bs_bass": [
+    "./bass/bs_bass_01.wav",
+    "./bass/bs_bass_02.wav",
+    "./bass/bs_bass_03.wav",
+    "./bass/bs_bass_04.wav",
+    "./bass/bs_bass_05.wav",
+    "./bass/bs_bass_06.wav",
+    "./bass/bs_bass_07.wav",
+    "./bass/bs_bass_08.wav",
+    "./bass/bs_bass_09.wav",
+    "./bass/bs_bass_10.wav",
+    "./bass/bs_bass_11.wav",
+    "./bass/bs_bass_12.wav",
+    "./bass/bs_bass_13.wav"
+  ]
+}
